@@ -1,0 +1,18 @@
+a{
+    margin: 10px;
+    color: red;
+}
+
+p{
+    margin-bottom: 40px;
+}
+
+#gray{
+    color: lightgray;
+}
+
+#redbg{
+    color: white;
+    background-color: red;
+    padding: 5px;
+}
